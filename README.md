@@ -1,5 +1,9 @@
 # Sass Styleguide
 
+## To be done:
+
+  * selector nesting: no(!)
+
 ## Table of Contents
 
   1. [Methodology](#methodology)
