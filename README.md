@@ -3,6 +3,7 @@
 ## To be done:
 
   * selector nesting: no(!)
+  * `shame file`: slim file with all the selectors you are not proud of and which needs a refactoring.
 
 ## Table of Contents
 
