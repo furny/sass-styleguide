@@ -1,5 +1,12 @@
 # Sass Styleguide
 
+## Table of Contents
+
+  1. [Methodology](#methodology)
+  1. [Folder structure](#folder-structure)
+  1. [Whitespace](#whitespace)
+  1. [Attributes](#attributes)
+
 ## Methodology
 
 We use the BEM – Block, Element, Modifier paradigm for writing our Sass. The following section describes the naming and gives an usage example.
@@ -42,6 +49,9 @@ $module: 'list';
 }
 
 ```
+
+**[⬆ back to top](#table-of-contents)**
+
 ## Folder structure
 
 ```sh
@@ -76,6 +86,8 @@ styles/
 |- app.css
 ```
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Whitespace
 
   * Use soft tabs set to 4 spaces.
@@ -92,6 +104,8 @@ styles/
   }
   ```
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Attributes
 
   * Should have a whitespace between the `:` and the actual value
@@ -107,3 +121,5 @@ styles/
       background: tomato;
   }
   ```
+
+**[⬆ back to top](#table-of-contents)**
