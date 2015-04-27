@@ -1,0 +1,22 @@
+{
+  "name": "@furny/sass-styleguide",
+  "version": "1.0.0",
+  "description": "A approach to Sass.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furny/sass-styleguide.git"
+  },
+  "keywords": [
+    "style guide",
+    "sass"
+  ],
+  "author": "André König <andre@homedesignsolutions.de> (https://twitter.com/caiifr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furny/sass-styleguide/issues"
+  },
+  "homepage": "https://github.com/furny/sass-styleguide"
+}
