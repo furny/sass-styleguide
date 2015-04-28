@@ -46,11 +46,13 @@ An example for a `list` module which will be constructed of
     &__footer {
         background: green;
         padding: 0 .2em;
+
+        &-huuuuuge {
+            font-size: 200%;
+        }
     }
 
-    &__footer-huuuuuge 
-        font-size: 200%;
-    }
+    
 }
 ```
 
