@@ -51,8 +51,6 @@ An example for a `list` module which will be constructed of
             font-size: 200%;
         }
     }
-
-    
 }
 ```
 
