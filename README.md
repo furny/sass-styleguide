@@ -33,26 +33,25 @@ An example for a `list` module which will be constructed of
   * and a footer
 
 ```css
-$module: 'list';
+.list {
+    &__header {
+        background: tomato;
+        color: #fff;
+    }
 
-.#{$module}__header {
-    background: tomato;
-    color: #fff;
+    &__body {
+        font-size: 180%;    
+    }
+
+    &__footer {
+        background: green;
+        padding: 0 .2em;
+    }
+
+    &__footer-huuuuuge 
+        font-size: 200%;
+    }
 }
-
-.#{module}__body {
-    font-size: 180%;    
-}
-
-.#{module}__footer {
-    background: green;
-    padding: 0 .2em;
-}
-
-.#{module}__footer-huuuuuge 
-    font-size: 200%;
-}
-
 ```
 
 **[⬆ back to top](#table-of-contents)**
