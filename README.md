@@ -54,6 +54,58 @@ An example for a `list` module which will be constructed of
 }
 ```
 
+Or 
+
+```css
+
+$module: 'list';
+
+.#{$module} { }
+
+.#{module}__header {
+    background: tomato;
+    color: #fff;
+}
+
+.#{module}__body {
+    font-size: 180%;    
+}
+
+.#{module}__footer {
+    background: green;
+    padding: 0 .2em;
+}
+
+.#{module}__footer-huuuuuge {
+    font-size: 200%;
+}
+```
+
+
+Or 
+
+```css
+.list { }
+
+.list__header {
+    background: tomato;
+    color: #fff;
+}
+
+.list__body {
+    font-size: 180%;    
+}
+
+.list__footer {
+    background: green;
+    padding: 0 .2em;
+}
+
+.list__footer-huuuuuge {
+    font-size: 200%;
+}
+```
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Folder structure
